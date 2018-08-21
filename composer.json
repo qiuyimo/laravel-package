@@ -1,0 +1,10 @@
+{
+    "name": "qiuyu/helloworld",
+    "authors": [
+        {
+            "name": "qiuyu",
+            "email": "530004000@qq.com"
+        }
+    ],
+    "require": {}
+}
